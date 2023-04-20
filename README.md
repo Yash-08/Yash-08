@@ -4,7 +4,7 @@
 
 🔭 I am currently pursuing Btech in CSE from Smt. Kashibai Navale College of Engineering.
 
-Skills: Python | MySql | Data Structure  | Algorithms | |Excel | Machine Learning | | Data Analysis | | Statistics | | Data Visualization |
+Skills: | Python | MySql | Data Structure  | Algorithms | Excel | Machine Learning | Data Analysis | Statistics | Data Visualization |
 - 📫 Reach me at: yashshah82001@gmail.com 
 
 
